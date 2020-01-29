@@ -1,0 +1,6 @@
+framework module Pods_Project_Harbaugh {
+  umbrella header "Pods-Project Harbaugh-umbrella.h"
+
+  export *
+  module * { export * }
+}
